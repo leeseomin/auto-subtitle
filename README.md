@@ -10,9 +10,7 @@ To get started, you'll need Python 3.7 or newer. Install the binary by running t
     
     pip3 install git+https://github.com/m1guelpf/auto-subtitle.git 
     
-    우분투에서 안되면  
-    
-   ``` conda 설치 
+    우분투에서 안되면  conda 설치 후에 다시 실행  
 
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 

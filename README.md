@@ -46,6 +46,12 @@ Run the following to view all available options:
 ## 영어로 번역해서 자막입히는 명령
 ```
 auto_subtitle s.mp4 -o subtitled/ --task translate
+
+
+좀더정교한 작업
+
+auto_subtitle s.mp4 -o subtitled/ --model medium --task translate
+
 ```
 
 

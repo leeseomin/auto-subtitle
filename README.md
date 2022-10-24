@@ -12,12 +12,12 @@ To get started, you'll need Python 3.7 or newer. Install the binary by running t
     
     우분투에서 안되면  
     
-    # conda 설치 
+   ``` conda 설치 
 
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 
 bash Miniconda3-latest-Linux-x86_64.sh
-
+```
 
 You'll also need to install [`ffmpeg`](https://ffmpeg.org/), which is available from most package managers:
 

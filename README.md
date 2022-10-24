@@ -14,6 +14,9 @@ You'll also need to install [`ffmpeg`](https://ffmpeg.org/), which is available 
 
 ```bash
 # on Ubuntu or Debian
+
+sudo snap install ffmpeg
+
 sudo apt update && sudo apt install ffmpeg
 
 # on MacOS using Homebrew (https://brew.sh/)

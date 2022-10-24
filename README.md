@@ -38,6 +38,14 @@ Adding `--task translate` will translate the subtitles into English:
 Run the following to view all available options:
 
     auto_subtitle --help
+    
+    
+    
+## 영어로 번역해서 자막입히는 명령
+
+auto_subtitle s.mp4 -o subtitled/ --task translate
+
+
 
 ## License
 

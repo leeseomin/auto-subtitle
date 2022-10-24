@@ -8,7 +8,16 @@ To get started, you'll need Python 3.7 or newer. Install the binary by running t
 
     pip install git+https://github.com/m1guelpf/auto-subtitle.git
     
-    pip3 install git+https://github.com/m1guelpf/auto-subtitle.git
+    pip3 install git+https://github.com/m1guelpf/auto-subtitle.git 
+    
+    우분투에서 안되면  
+    
+    # conda 설치 
+
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+
+bash Miniconda3-latest-Linux-x86_64.sh
+
 
 You'll also need to install [`ffmpeg`](https://ffmpeg.org/), which is available from most package managers:
 
